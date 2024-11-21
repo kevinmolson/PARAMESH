@@ -1,0 +1,2 @@
+#undef LIBRARY
+#define REAL8
